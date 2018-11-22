@@ -10,4 +10,3 @@ def solution(a, b):
     DAY_STR = ['MON','TUE','WED','THU','FRI','SAT','SUN']
 	  answer = DAY_STR[datetime.date(2016,a,b).weekday()]
     return answer
-
