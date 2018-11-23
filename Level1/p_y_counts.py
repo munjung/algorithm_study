@@ -7,7 +7,6 @@
 # 문자열 s는 알파벳으로만 이루어져 있습니다.
 
 
-
 def solution(s):
     answer = False
     s = s.lower()
