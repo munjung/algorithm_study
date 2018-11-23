@@ -8,8 +8,6 @@
 
 
 
-
-
 def solution(s):
     answer = False
     s = s.lower()
