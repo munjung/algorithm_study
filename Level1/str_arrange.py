@@ -20,3 +20,9 @@ def solution(strings, n):
     return answer
     
 #strings.sort(key = lambda x:x[n])
+def solutin(strings, n):
+    sort_strings = sorted(strings)
+    sort_strings.sort(sort_strings, key=lambda x:x[n])
+    
+    sort_strings
+    return sort_strings
